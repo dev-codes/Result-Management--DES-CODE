@@ -1,0 +1,27 @@
+{
+  "name": "result_management_system",
+  "version": "1.0.0",
+  "description": "result system for the subharti university",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-codes/CP.git"
+  },
+  "keywords": [
+    "##1"
+  ],
+  "author": "devang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-codes/CP/issues"
+  },
+  "homepage": "https://github.com/dev-codes/CP#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "mongodb": "^2.1.16"
+  }
+}
