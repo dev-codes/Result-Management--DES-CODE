@@ -1,0 +1,75 @@
+
+#St-details{
+    margin-top: 2%;
+}
+
+.card {
+   margin-top: 4%;
+    margin-bottom: 0%;
+    border-color: lightgrey;
+   /* border-style: solid;
+    border-radius: 25px;*/
+   /* background-color: #F5F5F5;*/
+}
+h2{
+    color: #2aabd2;
+}
+
+
+#rollnobox{
+
+
+    margin-top: 10%;
+
+}
+.margindown{
+    margin-bottom: 10%;
+
+
+}
+#logo {
+    margin-top: 4%;
+    margin-bottom: 4%;
+
+
+}
+#panel{
+    margin-top: 10%;
+
+}
+.margin-bottom{
+    margin-bottom:2% ;
+}
+.custom-width{
+    width:2% ;}
+.custom-margin-top{
+    margin-top: 20% ;
+
+}
+
+#custom-footer{
+    background-color: #1b6d85;
+
+}
+
+
+
+.form-login {
+    background-color: #EDEDED;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    border-color:#d2d2d2;
+    border-width: 5px;
+    box-shadow:0 1px 0 #cfcfcf;
+}
+
+.long-margin-bottom{
+
+}
+
+
+
+
