@@ -1,0 +1,25 @@
+{
+  "name": "result",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitcse/result.git"
+  },
+  "author": "Amit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitcse/result/issues"
+  },
+  "homepage": "https://github.com/amitcse/result#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "mongodb": "^2.1.16"
+  }
+}
