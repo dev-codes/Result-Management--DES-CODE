@@ -39,14 +39,14 @@ background-color: rgba(65, 199, 147, 1);
     width: 230px;
 
 }
-.menu-list
-{
+.menu-list {
     color: #737373;
 
     padding-right: 5px;
     padding-left: 21px;
     padding-top: 12px;
     padding-bottom: 12px;
+}
 
 
 .nav-sidebar {
@@ -57,13 +57,30 @@ background-color: rgba(65, 199, 147, 1);
 
 
 
-
-ul>li>a{
-    text-decoration: none;
-    background-color: rgba(255, 152, 0, 0.87);
+.rcorners {
+    border-radius: 25px;
+    border: 2px solid rgba(120, 136, 201, 0.27);
+    width: 954px;
+    margin-top: 136px;
+}
+#home_heading{
+padding-top:38px ;
 }
 
 
-a:hover {
-    color: #9C27B0;
+
+#home-pannel-padding-down{
+
+    padding-bottom: 90px;
+
+}
+
+
+
+.margin-left-btn
+{
+    left:1.5%;
+}
+#footer{
+    background-color: #1f7e9a;
 }
