@@ -1,0 +1,56 @@
+.rpannel {
+    border-radius: 25px;
+
+    border: 2px solid #73AD21;
+    padding: 20px;
+}
+
+.sheet-pannel{
+
+    margin-left: 157px;
+    width: 1009px;
+    height: 569px;
+    margin-right: 120px;
+    margin-top: 80px;
+
+}
+#student-info{ margin-bottom: 0px;
+background-color: rgba(32, 5, 161, 0.07);
+}
+.cust-table{
+    border: 2px solid #73AD21;
+}
+#search-box{
+    border: .5px solid black;
+
+    width: 212px;
+    margin-left: 25px;
+    height: 75px;
+    margin-right: 45px;
+    padding-top: 21px;
+
+}
+#roll-no-menu{
+    border: 2px solid black;
+    height: 430px;
+    width: 214px;
+    padding-left: 54px;
+    padding-top: 12px;
+    margin-left: 25px;
+
+}
+#marks-table{
+
+}
+.fill_up{
+
+    border-collapse: collapse;
+}
+#rollno-call{
+    border: 1px  solid #9E9E9E;
+    height: 88px;
+    margin-bottom: 18px;
+background-color: rgba(0, 0, 0, 0.21);
+}
+#base{background-color: rgba(158, 158, 158, 0.12);
+}
