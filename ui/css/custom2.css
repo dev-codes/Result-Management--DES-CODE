@@ -86,3 +86,19 @@ padding-top:38px ;
 }
 
 
+#student-form{
+    border-radius: 25px;
+    border: 2px solid rgba(120, 136, 201, 0.27);
+
+    margin-top: 136px;
+}
+
+.student-fields-align{
+    margin-bottom: 16px;
+
+}
+.fields-align-horizontal {
+
+    padding-left: 37px;
+
+}
